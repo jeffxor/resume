@@ -109,22 +109,23 @@ a:hover
 <div class="section">
   <div class="sectionHeader"><strong>EDUCATION:</strong></div>
     <% education.each do |institution| %>
-      <div class="sectionContent"><%= institution["degree"] %>. <br />
+      <div class="sectionContent"><%= institution["degree"] %><br />
       <%= institution["name"] %>, <%= institution["location"] %><br />
       <%= institution["dates"] %> <br />
       </div> 
     <% end %>
 </div>
- 
+
 <div class="section">
-<div class="sectionHeader"><strong>AWARDS:</strong></div>
-  <% awards.each do |institution| %>
-    <% institution["awards"].each do |award| %>
-    <div class="sectionContent"> <strong><%= award["date"] %> <%= institution["name"] %></strong> (<%= institution["location"] %>): <%= award["name"] %> </div>
-    <% end %>
+<div class="sectionHeader"><strong>Certifications:</strong></div>
+  <% certifications.each do |certification| %>
+      <div class="sectionContent"><strong><%= certification["name"] %></strong><br />
+      <%= certification["organization"] %>, <%= certification["location"] %><br />
+      <%= certification["dates"] %> <br />
+      </div> 
   <% end %>
 </div>
-  
+
 <div class="section"><strong>References available on request.</strong></div>
 
  

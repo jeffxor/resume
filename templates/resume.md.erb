@@ -41,6 +41,12 @@ _<%= job["title"] %>_ **<%= job["employer"] %>** <%= job["location"] %> <%= job[
 * **<%= award["date"] %> <%= institution["name"] %>** (<%= institution["location"] %>): <%= award["name"] %>
 <% end %>
 
+##CERTIFICATIONS:
+<% certification.each do |institution| %>
+<% institution["awards"].each do |award| %>
+* **<%= award["date"] %> <%= institution["name"] %>** (<%= institution["location"] %>): <%= award["name"] %>
+<% end %>
+
 <% end %>
 
 **References available on request.**

@@ -1,123 +1,89 @@
 contact:
-    name: Harper Reed
-    email: 'harper@nata2.org'
-    page: '[harperreed.org](https://harperreed.org)'
-    github: '[github.com/harperreed](https://github.com/harperreed)'
-    linkedin: '[linkedin.com/in/harperreed](http://www.linkedin.com/in/harperreed)'
-    twitter: '[@harper](http://twitter.com/harper)'
+    name: Jeffrey Williams
+    email: 'jeffxor.williams@gmail.com'
+    github: '[github.com/jeffxor](https://github.com/jeffxor)'
+    linkedin: '[linkedin.com/in/williamsjeff/](http://www.linkedin.com/in/williamsjeff/)'
+    twitter: '[@jeffxor](http://twitter.com/jeffxor)'
 
 work:
-
-    - employer: Obama for America 
-      title: Chief Technology Officer
+    - employer: ADP Dealer Services
+      title: Senior Software Engineer / Application Architect 
       location: 'Chicago, IL'
-      dates: April 2011 - Present
-      note: Obama for America is the relection campaign for President Barack Obama.
-
-    - employer: Rackspace Hosting
-      title: Customer in Residence
-      location: 'San Antonio, TX'
-      dates: October 2009 - April 2010
-      note: Rackspace is an IT hosting company with a focus on cloud.
+      dates: May 2010 - Present
+      note: 'ADP Dealers Services helps deliver technology solutions to over 26,500 dealers.'
       description:
-        - 'Worked with professional services department to help clients find the right solution. '
-        - 'Worked with executive staff to help define better customer experience'
-        - 'Represented Rackspace at conferences and small events.'
+        - 'Designed a data abstraction for automotive lease and finance to simplfy the process of quouting car sales for ADP''s Dealers.'
+        - 'Designed and implemented a distributed system for routing sales leads from across North America to our clients Lead Management Systems'
+        - 'Crafted the next generation of SaaS based Lead Management System for the North American Automotive market.'
+        - 'Represented ADP Dealer Services at local user groups and small events.'
+        - 'Mentoring of junior developers both technically and career wise'
 
-    - employer: skinnyCorp, LLC
-      title: Chief Technology Officer
-      location: 'Chicago, IL'
-      dates: August 2005 - October 2009
-      note: skinnyCorp is the parent company of the Threadless.com.
+    - employer: Department of Immigration and Citizenship
+      title: Senior Java Developer
+      location: 'Canberra, ACT, Australia'
+      dates: August 2009 - April 2010
+      note: "Provides online services for the application of entry into Australia's borders."
       description:
-        - 'Acted as technology leader for a company of ~60 people with revenue of ~20-30M'
-        - 'Worked in a close team to design, execute and manage community websites'
-        - 'Lead the technology to support Threadless.com growth.'
-        - 'Grew Threadless.com from 2 barely functioning servers to over 45 devices.'
-        - 'Helped bridge the gap between the internet and reality with 2 retail stores.'
-        - 'Spoke about our technology at various events and conference, representing skinnyCorp and the Threadless vision.'
-        - 'Managed a small team of engineers to handle the day to day maintenance and projects.'
+        - "Developed and maintained a number of applications that help support staff in the application and processing of immigrants attempting entry into Australia’s borders."
 
-    - employer: Squidoo
-      title: Summer Intern
-      location: 
-      dates: June 2005 - August 2005
-      note: Squidoo is a community website that allows users to create pages for subjects of interest.
+    - employer: Judicial Commission of New South Wales
+      title: Systems Officer
+      location: 'Sydney, NSW, Australia'
+      dates: April 2009 - July 2009
+      note: 'The Judicial Commission, an independent statutory corporation, is part of the judicial arm of government.'
       description:
-        - 'Worked with Seth Godin and an amazing team to help build an design the initial version of Squidoo.'
-        - 'Helped define initial vision and technology for Squidoo before core staff was hired'
+        - 'The Judicial Commission oversees the management and data upkeep of the Lawcodes system for the state of New South Wales.'
 
-    - employer: Cramer and Krasselt
-      title: Web Programmer
-      location: 'Chicago, IL'
-      dates: October 2004 - July 2005
-      note: Cramer And Krasselt is an industry leading medium sized advertising agency.
+    - employer: ITI Scotland / The University of Edinburgh
+      title: Senior Software Developer
+      location: 'Edinburgh, Scotland, United Kingdom'
+      dates: May 2008 - December 2008
+      note: 'ITI Scotland Limited identifies, funds, and commercializes technology-based intellectual assets across digital media and communications, life sciences, and energy sectors.'
       description:
-        - 'Lead technologist and technical liaison to account management and creative staff.'
-        - 'Lead architect for client web applications. Worked with clients Airtran.com, Careerbuilder.com, and Barton Beers. (PHP, MYSQL, LINUX)'
-        - 'Lead engineer on full life cycle of Super Bowl viral campaign, Yeknominc.com. (PHP, MYSQL, LINUX)'
-        - 'Managed legacy operations for client web application management. (Perl, Navitaire SkyLights, JAVA)'
+        - 'Team lead of the commercialization aspects of the Natural Linguistic Processing (NLP) project for the University of Edinburgh.'
+        - 'Developed integration modules to load information into a database schema, and provide web based modules to view information extracted information.'
 
-    - employer: World Book Publishing
-      title: Security and Software Engineer
-      location: 'Chicago, IL'
-      dates: June 2001 - October 2004
-      note: World Book Publishing is a leading publisher of encyclopedias and children's learning material.
+    - employer: Fintech Consultants
+      title: Application Development Consultant
+      location: 'London, England, United Kingdom'
+      dates: Spetember 2006 - July 2007
+      note: 'Fintech is a technology consultancy specialising in the successful delivery of high-profile software solutions for businesses.'
       description:
-        - 'Lead development staff and managed offshore engineering team. Worked to develop and maintain World Book Publishing''s client facing web presence. Helped usher in new technology and standards - moving from AIX, DB2 on IBM hardware to Solaris, Oracle on Sun Hardware. Introduced open source technology and solution. (Solaris, JAVA, DB2, AIX, XML)'
-        - 'Wrote desktop content management utilities to aid in management of XML content by non-technical staff. (C#, PHP)'
-        - 'Developed practices to insure content accessibility and data portability. (JAVA, XML, XSLT, C#, DB2)'
-        - 'Helped develop a solid software security plan. Worked with system engineers to architect a secure production environment. Deployed production servers using open source software to meet budget constraints. (LINUX, NMAP, NESSUS, SOLARIS, AIX)'
+        - 'Help automate broadband provisioning for major telecommunications companies including British Telecom and Vodafone UK. '
+        - 'Developing integration software to cross platforms for the provisioning of telephone, telephone lines, ADSL and equipment delivery for end users.'
+
+    - employer: Judicial Commission of New South Wales
+      title: Systems Officer
+      location: 'Sydney, NSW, Australia'
+      dates: June 2005 - August 2006
+      note: 'The Judicial Commission, an independent statutory corporation, is part of the judicial arm of government.'
+      description:
+        - 'Lead Developer for a major redevelopment project for a state wide system that facilitates the electronic exchange of information between justice system agencies.'
+
+    - employer: Burwood Council
+      title: Systems Officer
+      location: 'Sydney, NSW, Australia'
+      dates: April 2004 - June 2005
+      note: 'Identified as a major centre by the NSW Government, Burwood is set to grow significantly in the next 25 years, taking advantage of the area’s strong local economy and excellent transport infrastructure.'
+      description:
+        - 'IT department supported the infrastructure that provided many online services to the public ratepayers.'
+
+    - employer: Strategic Business Consulting
+      title: Software Engineer
+      location: 'Sydney, NSW, Australia'
+      dates: January 2003 - April 2004
+      note: 'SBC is a leading provider of enterprise web solutions for workers compensation, case management, licensing, insurance, incident and hazard reporting, audit and risk management and OH&S.'
+      description:
+        - 'SBC is a leading provider of enterprise web solutions for workers compensation, case management, risk management and Operation Health and Safety.'
 
 skills:
     - name: 'Application Development'
       skills:
-        - Python
-        - PHP
-        - Ruby
+        - Java
         - 'C#'
-    - name: 'Platforms'
-      skills:
-        - 'Unix (Linux, Solaris, AIX)'
-        - OSX
-    - name: 'Databases'
-      skills:
-        - MySQL
-        - NoSQL
-        - LotsOfSQL
-    - name: 'System Software'
-      skills:
-        - Apache 
-        - Lighttpd
-        - Tornado
-        - Varnish
-        - nginx
-        - PHP
-        - Python
-        - Memcached
-        - Ejabberd
-        - Qmail
-        - Postfix
-        - Courier-IMAPd
-        - Endeca
-
-    - name: 'Cloud Infrastructure'
-      skills:
-        - 'Rackspace Cloud'
-        - Slicehost
-        - 'AWS (S3, ec2, EBS, SimpleDB)'
-        - Zerigo DNS
-        - Google App Engine
-    - name: Security
-      skills:
-        - PGP
-        - Nessus
-        - NMap
-        - ACiD/Snort
-        - Portsentry
-        - IPF
-        - Linux Firewalling
-        - General Linux security
+        - JavaScript
+        - Groovy
+        - Scala  
     - name: 'Markup Languages'
       skills:
         - HTML
@@ -125,27 +91,114 @@ skills:
         - CSS
         - XML
         - XSLT
-        - Markdown
+        - Markdown              
+    - name: 'Platforms'
+      skills:
+        - 'Linux (Debian, CentOs)'
+        - OSX 
+        - Windows
+        - AWS
+    - name: 'Databases'
+      skills:
+        - MySQL 
+        - Postgresql
+        - Neo4J
+        - 'Elastic Search'
+        - MongoDB
+    - name: 'Spring Frameworks'
+      skills:
+        - XD
+        - Batch
+        - Integration
+        - MVC
+        - Core
+        - 'Web Services'
+        - Data
+        - Social
+        - Mobile
+        - 'Web Flow'
+        - Security
+        - Grails
+    - name: '.Net Frameworks'
+      skills:
+        - 'Fluent NHibernate'
+        - Dapper
+        - 'Structure Map'
+        - Automapper
+        - NUnit
+        - Xunit
+    - name: 'JavaScript Frameworks'
+      skills:
+        - AngularJs
+        - JQuery
+        - 'JQuery Mobile'
+    - name: 'Integration Technologies'
+      skills:
+        - 'ETL (Spring Batch)'
+        - Rest
+        - Soap
+        - NServiceBus
+        - Spring Integration
+        - JMS
+        - ActiveMQ
+        - MSMQ
+        - SOAP
+        - POX
+        - EIP
+        - 'Domain Driven Design'
+    - name: 'Big Data'
+      skills:
+        - Hadoop
+        - Neo4J
+        - 'Elastic Search'
 
 education:
-    - degree: 'Bachelor of Arts, Computer Science and Philosophy' 
-      name: Cornell College
-      location: 'Mt Vernon, Iowa'
-      dates: 2001
+    - degree: 'Bachelor of Information Technology and Communications' 
+      name: University of Wollongong
+      location: 'Wollongong, New South Wales, Australia'
+      dates: 2003
 
-awards:
-  -
-    name: "PRIX ARS ELECTRONICA"
-    location: "Linz, Austria"
-    awards:
-      -
-        name: "Net Vision Honorary Mention"
-        date: "2002"
-  -
-    name: "MCIC"
-    location: "Chicago, IL"
-    awards:
-      -
-        name: " Data Innovation Award for the hacking the Chicago Transit Authority Bus API"
-        date: "2010"
+certifications:
+  - name: "SpringSource Certified Enterprise Integration Specialist"
+    organization: SpringSource
+    location: "Providence, RI"
+    date: 2012
 
+  - name: "SpringSource Certified Spring Professional"
+    organization: SpringSource
+    location: "Providence, RI"
+    date: 2011
+
+  - name: "Certified Scrum Master"
+    organization: Scrum Alliance
+    location: "Boston, MA"
+    date: 2010
+
+  - name: "SJCP Sun Certified Java Programmer"
+    organization: Sun
+    location: "Canberra, NSW, Australia"
+    date: 2010
+
+  - name: "SCJD Sun Certified Java Developer"
+    organization: Sun
+    location: "Canberra, NSW, Australia"
+    date: 2010
+
+  - name: "SCJD Sun Certified Java Developer"
+    organization: Sun
+    location: "Canberra, NSW, Australia"
+    date: 2010
+
+  - name: "Novel Linux Certification (Suse)"
+    organization: Novel
+    date: 2010
+
+  - name: "Linux Professional Certification Level 1"
+    organization: Linux Professional Certification
+    location: "Sydney, NSW, Australia"
+    date: 2005
+
+  - name: "Cisco Certified Network Associate"
+    organization: Cisco
+    location: "Sydney, NSW, Australia"
+    date: 2003

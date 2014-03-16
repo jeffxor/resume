@@ -1,4 +1,4 @@
-LATEX_HTML = %~<span style="font-family:cmr10,'Latin Modern Roman',serif">L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X</span>~
+  LATEX_HTML = %~<span style="font-family:cmr10,'Latin Modern Roman',serif">L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X</span>~
 
 def escape(input='')
   case input
